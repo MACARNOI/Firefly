@@ -1,29 +1,7 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+我是一名大三下已经快大四的双非一本软件工程的学生，痛恨自己从现在开始才认真学习技术，大三下我匆匆忙忙学了前端技术，最近在找实习，背八股真难受啊，大家都说前端简单，可我真的深刻感受到前端的内容又多又难，但至少缓解了我对找工作的焦虑，在网上看到一句话，如果在考虑要不要干的时候，什么都不要想直接去做，一个粗糙的开始，就是最好的开始
 
-## 🛠️ 关于本站
+之后会在这个博客更新我的技术栈学习内容和面试经验，目前方向是JavaScript全栈，感觉国内对JS全栈嗤之以鼻，外国倒是很多JS全栈岗位，要是能学习到进外企的程度就好了，国内Java真是班味太重了，舍友学习Java后端投递简历时间太晚，都找不到什么实习岗了，甚至连外包都找不到...
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
----
-
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-
+好了自话自说就到这里吧，预期一周更新一篇博客，加油吧
