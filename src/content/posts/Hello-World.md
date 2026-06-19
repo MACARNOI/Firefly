@@ -2,7 +2,7 @@
 title: Hello World
 published: 2026-06-19
 description: Hello World
-image: ./images/soyorin1.jpg
+image: ./images/soyorin1.jpeg
 tags: [测试]
 category: 日常
 draft: false
