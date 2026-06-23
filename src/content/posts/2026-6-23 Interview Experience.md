@@ -2,7 +2,7 @@
 title: 一些面试经历
 published: 2026-06-23
 description: 五月到六月底的面试经历
-image: ./cover.jpg
+image: ./images/prototype.png
 tags: [面试, 八股]
 category: 面试经历
 draft: false
